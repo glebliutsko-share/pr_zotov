@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{91B04BFC-FBE7-447E-A718-2B0B81474F70}</ProjectGuid>
+    <ProjectGuid>{58D18C2D-5EBC-468A-B24E-E5ECCE81B11A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Dvym2</RootNamespace>
-    <AssemblyName>Dvym2</AssemblyName>
+    <RootNamespace>Dvym3</RootNamespace>
+    <AssemblyName>Dvym3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
