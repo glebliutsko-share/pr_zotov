@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("Dvym1")]
+[assembly: AssemblyTitle("Dvym2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Dvym1")]
+[assembly: AssemblyProduct("Dvym2")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("95964b36-841f-4745-9260-f457a6acc9e3")]
+[assembly: Guid("91b04bfc-fbe7-447e-a718-2b0b81474f70")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
